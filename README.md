@@ -36,6 +36,7 @@ Samples of Student Work
 -----------------------
 [Yang](http://giangd.github.io/SnowflakeCatcher/)  
 [Aliya](http://aliyachambless.github.io/SnowflakeCatcher/)  
+[Daniel](http://donutdaniel.github.io/SnowflakeCatcher/)  
 [Andrew](http://frostytimp.github.io/SnowflakeCatcher/)  
 [Jimmy](http://furiouspenguins.github.io/SnowflakeCatcher/)  
 [Rebecca](http://rebeccachen1.github.io/SnowflakeCatcher/)  
